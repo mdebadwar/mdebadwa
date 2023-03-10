@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/mdebadwar/portfolio/blob/master/docs/data-analysis-wallpaper_2.jpg)
+<img align="right" alt="Coding" width="400" src="https://github.com/mdebadwar/portfolio/blob/master/docs/data_analyst_avtar.jfif" />
 
 <h2 align="center">Hi there, I am Mayuri Debadwar</h2>
 
