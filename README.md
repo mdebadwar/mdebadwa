@@ -1,5 +1,3 @@
-
-[![MasterHead]([https://wallpapers.com/wallpapers/data-analysis-business-presentation-7wf1rt12ml64agel.html](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4RBbjqgbtX97RQivzWNENnDdaxtRAyLFwQ&usqp=CAU))]
 <h2 align="center">Hi there, I am Mayuri Debadwar</h2>
 
 <p align="left">Thank you for visiting my profile. I am working as a Data Analyst from last 4.5 years having experties in SQL, Tableau, Python - (Numpy, Pandas, MatplotLib, Seaborn, Sklearn) 
