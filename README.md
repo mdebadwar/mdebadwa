@@ -1,15 +1,9 @@
 
-<h1 align="center">Hi, thank you for visiting my profile. I am Mayuri Debadwar</h1>
+<h1 align="center">Hi there, I am Mayuri Debadwar</h1>
 
-<h2 align="left">I am working as a Data Analyst from last 4.5 years having experties in SQL, Tableau, Python - (Numpy, Pandas, MatplotLib, Seaborn, Sklearn) 
+<p align="left">Thank you for visiting my profile. I am working as a Data Analyst from last 4.5 years having experties in SQL, Tableau, Python - (Numpy, Pandas, MatplotLib, Seaborn, Sklearn) 
 Currently working on a project in E-commerce domain to migrate data from legacy systems to cloud using AWS, SQL, Python & PowerBI.
-Being an enthusiastic data analyst I would like to grow as a Data Scientist.</h2>
-
-<img align="right" alt="Coding" width="400" src="https://www.pixtastock.com/illustration/74962782">
-
-- 📝 I regularly write articles on [https://shadysplash.wordpress.com/](https://shadysplash.wordpress.com/)
-
-- 📄 Know about my experiences [https://github.com/mdebadwar/portfolio/blob/master/docs/MayuriDebadwar_Resume1.3.pdf](https://github.com/mdebadwar/portfolio/blob/master/docs/MayuriDebadwar_Resume1.3.pdf)
+Being an enthusiastic data analyst I would like to grow as a Data Scientist.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
