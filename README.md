@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I am Mayuri Debadwar</h1>
+<h2 align="center">Hi there, I am Mayuri Debadwar</h2>
 
 <p align="left">Thank you for visiting my profile. I am working as a Data Analyst from last 4.5 years having experties in SQL, Tableau, Python - (Numpy, Pandas, MatplotLib, Seaborn, Sklearn) 
 Currently working on a project in E-commerce domain to migrate data from legacy systems to cloud using AWS, SQL, Python & PowerBI.
