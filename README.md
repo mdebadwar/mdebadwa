@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/mdebadwar/portfolio/blob/master/docs/data-analysis-wallpaper.jpg)]
+![MasterHead](https://github.com/mdebadwar/portfolio/blob/master/docs/data-analysis-wallpaper_2.jpg)
 
 <h2 align="center">Hi there, I am Mayuri Debadwar</h2>
 
