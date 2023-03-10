@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/mdebadwar/portfolio/blob/master/docs/data-analysis-wallpaper.jpg)]
+
 <h2 align="center">Hi there, I am Mayuri Debadwar</h2>
 
 <p align="left">Thank you for visiting my profile. I am working as a Data Analyst from last 4.5 years having experties in SQL, Tableau, Python - (Numpy, Pandas, MatplotLib, Seaborn, Sklearn) 
@@ -5,7 +7,7 @@ Currently working on a project in E-commerce domain to migrate data from legacy 
 Being an enthusiastic data analyst I would like to grow as a Data Scientist.</p>
 
 <p align="center">
-  <a href="https://github.com/mdebadwar/portfolio/blob/master/docs/MayuriDebadwar_Resume1.3.pdf</a> |
+  <a href="https://github.com/mdebadwar/portfolio/blob/master/docs/MayuriDebadwar_Resume1.3.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/mayuri-debadwar-504b23135/">LinkedIn</a> |
   <a href="https://github.com/mdebadwar">GitHub</a>
 </p>
