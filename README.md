@@ -7,7 +7,7 @@ Currently working on a project in E-commerce domain to migrate data from legacy 
 Being an enthusiastic data analyst I would like to grow as a Data Scientist.</p>
 
 <p align="center">
-  <a href="https://github.com/mdebadwar/portfolio/blob/master/docs/MayuriDebadwar_Resume1.3.pdf">Resume</a> |
+  <a href="https://github.com/mdebadwar/portfolio/blob/master/docs/MayuriDebadwar_Resume2.0.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/mayuri-debadwar-504b23135/">LinkedIn</a> |
   <a href="https://github.com/mdebadwar">GitHub</a>
 </p>
