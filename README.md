@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi there, I am Mayuri Debadwar</h2>
 
-<p align="left">Thank you for visiting my profile. I am working as a Data Analyst from last 4.5 years having experties in SQL, Tableau, Python - (Numpy, Pandas, MatplotLib, Seaborn, Sklearn) 
+<p align="left">Thank you for visiting my profile. I am a Sr Data Analyst with overall experience of 6 years having experties in SQL, Tableau, Python - (Numpy, Pandas, MatplotLib, Seaborn, Sklearn) 
 Currently working on a project in E-commerce domain to migrate data from legacy systems to cloud using AWS, SQL, Python & PowerBI.
 Being an enthusiastic data analyst I would like to grow as a Data Scientist.</p>
 
